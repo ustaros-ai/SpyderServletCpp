@@ -28,3 +28,5 @@
 *.app
 /build/
 /dist/
+/AuthWidget/build/
+/AuthWidget/dist/
